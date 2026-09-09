@@ -1,0 +1,17 @@
+{
+  "name": "genpark-discrete-wavelet-transform-haar-daubechies-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Discrete Wavelet Transform (DWT) Multi-Resolution Subband Decomposition Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "signal-processing",
+    "dwt",
+    "wavelet-transform",
+    "multi-resolution"
+  ]
+}
