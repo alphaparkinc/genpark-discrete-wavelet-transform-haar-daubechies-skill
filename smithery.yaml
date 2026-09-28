@@ -1,0 +1,5 @@
+name: genpark-discrete-wavelet-transform-haar-daubechies-skill
+description: Discrete Wavelet Transform (DWT) and multi-resolution analysis using Haar and Daubechies scaling/wavelet filters
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
