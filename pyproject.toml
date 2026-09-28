@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-discrete-wavelet-transform-haar-daubechies-skill"
+version = "1.0.0"
+description = "Discrete Wavelet Transform (DWT) and multi-resolution analysis using Haar and Daubechies scaling/wavelet filters"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
